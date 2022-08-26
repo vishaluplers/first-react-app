@@ -1,7 +1,10 @@
 function App() {
   return (
       <div>
-          <img src="./logo192.png" width="40px" />
+        <nav>
+        <img src="./logo192.png" width="40px" />
+        </nav>
+         
           <h1>Fun facts about React</h1>
           <ul>
               <li>Was first released in 2013</li>
