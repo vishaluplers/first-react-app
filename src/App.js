@@ -1,19 +1,21 @@
-function App() {
-  return (
-      <div>
-        <nav>
-        <img src="./logo192.png" width="40px" />
-        </nav>
-         
-          <h1>Fun facts about React</h1>
-          <ul>
-              <li>Was first released in 2013</li>
-              <li>Was originally created by Jordan Walke</li>
-              <li>Has well over 100K stars on GitHub</li>
-              <li>Is maintained by Facebook</li>
-              <li>Powers thousands of enterprise apps, including mobile apps</li>
-          </ul>
-      </div>
-  )
+
+import Card from "./components/Card"
+
+const App =  () => {
+return (
+<>
+<h1>Props Example</h1>
+<div className="card-list">
+<Card link="https://source.unsplash.com/random/300x200?sig=1" />
+<Card link="https://source.unsplash.com/random/300x200?sig=2"/>
+<Card link="https://source.unsplash.com/random/300x200?sig=3"/>
+<Card link="https://source.unsplash.com/random/300x200?sig=4"/>
+<Card link="https://source.unsplash.com/random/300x200?sig=5" />
+<Card link="https://source.unsplash.com/random/300x200?sig=6"/>
+<Card link="https://source.unsplash.com/random/300x200?sig=7"/>
+<Card link="https://source.unsplash.com/random/300x200?sig=8"/>
+</div>
+</>
+)
 }
 export default App
