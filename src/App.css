@@ -38,7 +38,6 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
 }
 
-<<<<<<< Updated upstream
 .column {
   float: left;
   width: 25%;
@@ -53,9 +52,6 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   display: table;
   clear: both;
 }
-=======
-/* Style the counter cards */
->>>>>>> Stashed changes
 .card1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -149,23 +145,15 @@ background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, F
 }
 
 .card3 span{
-<<<<<<< Updated upstream
   font-size: 10px;
   color: white;
   font-weight: 500;
   text-shadow: 2px 2px 5px red;
-=======
-    font-size: 10px;
-    color: white;
-    font-weight: 500;
-    text-shadow: 2px 2px 5px red;
->>>>>>> Stashed changes
 }
 
 /****************card four****************************/
 .card4
 {
-<<<<<<< Updated upstream
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 padding: 16px;
 text-align: center;
@@ -173,21 +161,11 @@ background: #c21500;
 background: -webkit-linear-gradient(to right, #ffc500, #c21500); 
 background: linear-gradient(to right, #ffc500, #c21500);
 
-=======
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background: #c21500; 
-  background: -webkit-linear-gradient(to right, #ffc500, #c21500); 
-  background: linear-gradient(to right, #ffc500, #c21500);
-  
->>>>>>> Stashed changes
 
 }
 
 .card4 h1
 {
-<<<<<<< Updated upstream
   color: white;
   font-size: 20px;
   color: white;
@@ -199,60 +177,30 @@ background: linear-gradient(to right, #ffc500, #c21500);
   font-size: 20px;
 color: White;
 /* //text-shadow: 2px 2px 5px red; */
-=======
-    color: white;
-    font-size: 20px;
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-}
-.card4 h2
-{
-    /* //color:Red; */
-    font-size: 20px;
-  color: White;
-  /* //text-shadow: 2px 2px 5px red; */
->>>>>>> Stashed changes
 
 }
 
 .card4 span{
-<<<<<<< Updated upstream
   font-size: 10px;
   color: white;
   font-weight: 500;
   text-shadow: 2px 2px 5px red;
-=======
-    font-size: 10px;
-    color: white;
-    font-weight: 500;
-    text-shadow: 2px 2px 5px red;
->>>>>>> Stashed changes
 }
 
 /*****************card five************************/
 .card5
 {
-<<<<<<< Updated upstream
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 padding: 16px;
 text-align: center;
 background: #0575E6; 
 background: -webkit-linear-gradient(to right, #021B79, #0575E6);
 background: linear-gradient(to right, #021B79, #0575E6);
-=======
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background: #0575E6; 
-  background: -webkit-linear-gradient(to right, #021B79, #0575E6);
-  background: linear-gradient(to right, #021B79, #0575E6);
->>>>>>> Stashed changes
 
 }
 
 .card5 h1
 {
-<<<<<<< Updated upstream
   color: white;
   font-size: 20px;
   color: white;
@@ -264,61 +212,31 @@ background: linear-gradient(to right, #021B79, #0575E6);
   font-size: 20px;
 color: White;
 /* //text-shadow: 2px 2px 5px red; */
-=======
-    color: white;
-    font-size: 20px;
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-}
-.card5 h2
-{
-    /* //color:Red; */
-    font-size: 20px;
-  color: White;
-  /* //text-shadow: 2px 2px 5px red; */
->>>>>>> Stashed changes
 
 }
 
 .card5 span{
-<<<<<<< Updated upstream
   font-size: 10px;
   color: white;
   font-weight: 500;
   text-shadow: 2px 2px 5px red;
-=======
-    font-size: 10px;
-    color: white;
-    font-weight: 500;
-    text-shadow: 2px 2px 5px red;
->>>>>>> Stashed changes
 }
 
 
 /*****************card six************************/
 .card6
 {
-<<<<<<< Updated upstream
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 padding: 16px;
 text-align: center;
 background: #333333;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-=======
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background: #333333;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
->>>>>>> Stashed changes
 
 }
 
 .card6 h1
 {
-<<<<<<< Updated upstream
   color: white;
   font-size: 20px;
   color: white;
@@ -330,33 +248,12 @@ background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, F
   font-size: 20px;
 color: White;
 /* //text-shadow: 2px 2px 5px red; */
-=======
-    color: white;
-    font-size: 20px;
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-}
-.card6 h2
-{
-    /* //color:Red; */
-    font-size: 20px;
-  color: White;
-  /* //text-shadow: 2px 2px 5px red; */
->>>>>>> Stashed changes
 
 }
 
 .card6 span{
-<<<<<<< Updated upstream
   font-size: 10px;
   color: white;
   font-weight: 500;
   text-shadow: 2px 2px 5px red;
 }
-=======
-    font-size: 10px;
-    color: white;
-    font-weight: 500;
-    text-shadow: 2px 2px 5px red;
-}
->>>>>>> Stashed changes
