@@ -4,7 +4,7 @@ import Card from "./components/Card"
 const App =  () => {
 return (
 <>
-<h1>Props Example</h1>
+<h1>Props Example</h1> 
 <div className="card-list">
 <Card link="https://source.unsplash.com/random/300x200?sig=1" />
 <Card link="https://source.unsplash.com/random/300x200?sig=2"/>
