@@ -4,7 +4,10 @@ import Card from "./components/Card"
 const App =  () => {
 return (
 <>
+<<<<<<< Updated upstream
 <h1>Props Example</h1> 
+=======
+>>>>>>> Stashed changes
 <div className="card-list">
 <Card link="https://source.unsplash.com/random/300x200?sig=1" />
 <Card link="https://source.unsplash.com/random/300x200?sig=2"/>
@@ -16,6 +19,10 @@ return (
 <Card link="https://source.unsplash.com/random/300x200?sig=8"/>
 </div>
 </>
+<<<<<<< Updated upstream
 ) 
+=======
+)
+>>>>>>> Stashed changes
 }
 export default App
