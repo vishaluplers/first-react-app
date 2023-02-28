@@ -1,2 +1,0 @@
-*{box-sizing:border-box}body{font-family:Inter,sans-serif;margin:0}nav{align-items:center;background-color:#21222a;display:flex;height:90px;padding:30px 25px}h1{text-align:center}.card-list{grid-gap:20px;display:grid;grid-auto-flow:dense;grid-auto-rows:240px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));padding:20px}.card-list .card{align-items:center;display:flex;font-size:2em;justify-content:center;overflow:hidden;position:relative}.card-list .card img{height:100%;object-fit:cover;transition-duration:1s;width:100%}
-/*# sourceMappingURL=main.2c8b9c2b.css.map*/
